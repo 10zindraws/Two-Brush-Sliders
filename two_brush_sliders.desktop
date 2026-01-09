@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=two_brush_sliders
+X-Python-2-Compatible=false
+Name=Two Brush Sliders
+Comment=Docker with two sliders for controlling brush hardness and size
